@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/kafkazookeep.iml" filepath="$PROJECT_DIR$/.idea/kafkazookeep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ostock-microservices.iml" filepath="$PROJECT_DIR$/.idea/ostock-microservices.iml" />
     </modules>
   </component>
 </project>
