@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: organization-service
+  profiles:
+    active: dev
+  cloud:
+    config:
+      uri: http://configserver:8071
+  main:
+    allow-circular-references: true
+logging:
+  level:
+    org.springframework.web: WARN
+    com.optimagrowth: DEBUG
